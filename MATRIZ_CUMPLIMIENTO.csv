@@ -1,0 +1,16 @@
+﻿Referencia,Criterio,Puntos,Estado,Evidencia,Limite
+Trabajo,Fuentes reales justificadas,20.0,Implementado,FUENTES.csv; informe p.2 y 8; originales y hashes,Fecha original INE/SII no acreditada; se declara recepción/revisión.
+Trabajo,Planteamiento abierto,15.0,Implementado,"Informe p.1 y 4; comparación de lluvia, episodios intensos y mercado",No se puede estimar qué amenaza causó mayores pérdidas.
+Trabajo,ETL y datamart,20.0,Implementado,"Notebook, analisis.py, SQLite, CSV, Power Query y relaciones PBIX",Constelación de estrellas; fuentes con granos distintos.
+Trabajo,Dashboard Power BI,15.0,Implementado; ver VERIFICACION_POWERBI.txt,Colchagua_Resiliencia.pbix; powerbi/Medidas.dax,Actualización de nuevas fuentes requiere regenerar el ETL y definir RutaDatos.
+Trabajo,ML / Forecast,15.0,Implementado y evaluado,K-means silhouette/ARI; sensibilidad; holdout temporal; informe p.3 y 6,Muestra 10 comunas; modelo elegido no gana en prueba.
+Trabajo,Hallazgos y defensa,15.0,Documentado; defensa oral pendiente,Informe p.3-8 y DEFENSA.md,La capacidad del equipo y nota docente no se verifican con archivos.
+Forecast,Historia real y ciclos completos,,Implementado,"FactEmpleo.csv: 162 meses centrales, rama regional","Son trimestres móviles, no meses independientes."
+Forecast,Tendencia y estacionalidad,,Implementado,Regresión con tendencia y armónicos anuales,Se compara contra ingenuo; los patrones pueden cambiar.
+Forecast,Intervalo e interpretación,,Implementado,FactForecast.csv y PDF p.6,Intervalo predictivo nominal; cobertura futura no certificada.
+Forecast,Desfase invierno-verano,,Implementado,ParesClimaEmpleo.csv; informe p.5,Dos estaciones locales frente a empleo regional.
+Forecast,Scatter y correlación no causal,,Implementado,"Correlaciones.csv, sensibilidad LOO y exclusión pandemia",8 o 9 temporadas; no efecto causal.
+Forecast,"Train/test, MAE y RMSE",,Implementado,"MetricasForecast.csv, ValidacionForecast.csv",Purga 2 meses; modelo elegido antes de test; test peor que baseline.
+Forecast,Amenazas sobre escenario normal,,Implementado,"Informe p.4,6,7; sensibilidad -10% declarada hipotética",No convertir lluvia o precio en pérdidas sin estimación válida.
+Entregables,"Notebook, PBIX, PDF y fuentes",,Incluidos,"Archivos en raíz, informe/ y datos/",Preparado para publicar; no publicado.
+Segunda rúbrica,Pauta distinta no aportada,,No verificable,Solo una rúbrica puntuada en los PDF recibidos,"Si existe otra pauta, se necesita para auditarla."

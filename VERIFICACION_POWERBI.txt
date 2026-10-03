@@ -1,0 +1,19 @@
+VERIFICACIÓN DE POWER BI — 03-10-2026
+
+Archivo: Colchagua_Resiliencia.pbix
+Revisión realizada en Power BI Desktop instalado en el equipo.
+
+- Se abrió una copia del PBIX con el modelo de datos integrado.
+- Se revisaron visualmente las siete páginas: Priorizar, Agro y empresas, Amenazas, Desfase, Forecast, Evaluar y Decidir.
+- Se corrigieron tarjetas que no mostraban cifras, formatos de porcentajes/años y textos que excedían su espacio.
+- Se verificó el filtro de Chimbarongo y se restituyó la vista general antes de guardar.
+- El filtro produjo 1.319 empresas agro, 432 empresas en red potencial, 612 pequeñas/medianas y 2.017 microempresas; valores conciliados con el análisis.
+- Se ejecutó Actualizar con RutaDatos vacía. La ventana de actualización terminó y el informe volvió a mostrar sus datos, sin mensaje de error.
+- Se guardó el archivo desde Power BI Desktop después de la actualización.
+- Se comprobaron por DAX totales, diez comunas, 162 filas históricas y siete proyecciones. El registro está en powerbi/VALIDACION_DAX.txt.
+- El modelo contiene 22 tablas. Su definición reproducible declara 22 relaciones y 22 medidas; las relaciones distinguen las granularidades geográficas y temporales.
+- La estructura del PBIX, el número de páginas, la integridad ZIP interna y la presencia del DataModel se comprueban en VERIFICACION_ENTREGA.json.
+
+Las páginas climáticas, laborales y comerciales mantienen su alcance real. No existe un filtro que transforme empleo regional o mercado nacional en cifras comunales. La página de exposición sí permite filtrar cultivos y empresas por comuna.
+Una instantánea integrada permite abrir y actualizar sin rutas del equipo de origen. Para reflejar datos CSV regenerados, configurar RutaDatos con la ruta absoluta a datos/datamart y actualizar. Actualizar con RutaDatos vacía vuelve a cargar la instantánea, no descarga datos oficiales nuevos.
+La revisión verifica apertura, visuales, una interacción comunal y conciliación de las medidas indicadas; no certifica todas las combinaciones posibles de interacción ni la calificación docente.

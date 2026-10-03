@@ -1,0 +1,16 @@
+{
+  "notebook_celdas_ejecutadas": 9,
+  "notebook_esquema_validado": true,
+  "paginas_pdf": 8,
+  "originales_sha256_verificados": 15,
+  "tablas_modelo": 22,
+  "relaciones_modelo": 22,
+  "medidas_modelo": 22,
+  "tablas_sqlite": 22,
+  "conteos_sqlite_csv_conciliados": true,
+  "llaves_relaciones_sin_huerfanos": true,
+  "paginas_pbix": 7,
+  "visuales_pbix": 45,
+  "revision_visual": "Ocho páginas PDF y siete páginas PBIX revisadas; filtro comunal comprobado",
+  "fecha": "2026-10-03"
+}

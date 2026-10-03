@@ -1,0 +1,139 @@
+﻿Tabla,Campo,Tipo_CSV,No_nulos,Filas,Ejemplo
+Correlaciones,Estacion_comuna,str,8,8,Chimbarongo
+Correlaciones,Indicador,str,8,8,Lluvia_JJA
+Correlaciones,Resultado,str,8,8,Empleo_verano_OHiggins
+Correlaciones,N,int64,8,8,9
+Correlaciones,Pearson,float64,8,8,-0.2817166804091414
+Correlaciones,Spearman,float64,8,8,-0.25
+Correlaciones,LOO_min,float64,8,8,-0.4619424057390006
+Correlaciones,LOO_max,float64,8,8,-0.1203162568099691
+Correlaciones,r_sin_2019_2021,float64,8,8,-0.2973686519916163
+DimAnio,Anio,int64,23,23,2005
+DimComuna,CUT,int64,10,10,6301
+DimComuna,Comuna,str,10,10,San Fernando
+DimComuna,Provincia,str,10,10,Colchagua
+DimComuna,Region,str,10,10,O’Higgins
+DimFecha,Fecha,str,180,180,2013-01-01
+DimFecha,Anio,int64,180,180,2013
+DimFecha,Mes,int64,180,180,1
+DimFecha,AnioMes,str,180,180,2013-01
+DimSector,Sector,str,6,6,Comercio agroalimentario potencial
+Estabilidad_clusters,Comuna_retirada,str,10,10,Chimbarongo
+Estabilidad_clusters,ARI,float64,10,10,1.0
+Evaluacion_clusters,k,int64,3,3,2
+Evaluacion_clusters,Silhouette,float64,3,3,0.3793568675034856
+FactActividad,Anio,int64,9309,9309,2021
+FactActividad,CUT,int64,9309,9309,6301
+FactActividad,Comuna,str,9309,9309,San Fernando
+FactActividad,Codigo,float64,9277,9309,11101.0
+FactActividad,Actividad,str,9309,9309,Sin información
+FactActividad,Sector,str,9309,9309,Otros sectores
+FactActividad,Empresas,int64,9309,9309,15
+FactActividad,Ventas_UF,float64,1724,9309,981.0
+FactClima,Fecha,str,54,54,2017-06-01
+FactClima,Anio,int64,54,54,2017
+FactClima,CUT,int64,54,54,6303
+FactClima,Comuna,str,54,54,Chimbarongo
+FactClima,Estacion,str,54,54,San Benito de Chimbarongo
+FactClima,Codigo_DMC,int64,54,54,340044
+FactClima,Lluvia_mm,float64,53,54,192.4
+FactClima,Max24h_mm,float64,53,54,42.9
+FactClima,Pagina_PDF,int64,54,54,87
+FactClima,Fuente,str,54,54,https://climatologia.meteochile.gob.cl/publicaciones/anuario/anuario-2017.pdf
+FactClima,Estado,str,54,54,Observado
+FactCultivo,CUT,int64,285,285,6301
+FactCultivo,Comuna,str,285,285,San Fernando
+FactCultivo,Especie,str,285,285,Arándano Americano
+FactCultivo,Riego,str,285,285,Goteo
+FactCultivo,Hectareas,float64,285,285,8.48
+FactCultivo,Anio,int64,285,285,2024
+FactEmpleo,Fecha,str,162,162,2013-02-01
+FactEmpleo,Trimestre,str,162,162,Ene - Mar
+FactEmpleo,Ocupados_agro,float64,162,162,118068.36352840088
+FactEmpleo,Nota_INE,float64,0,162,Faltante
+FactEmpleo,Territorio,str,162,162,Región de O’Higgins
+FactForecast,Fecha,str,7,7,2026-08-01
+FactForecast,Pronostico,float64,7,7,62322.04600559927
+FactForecast,LI95,float64,7,7,44565.77344257962
+FactForecast,LS95,float64,7,7,76883.18075981036
+FactForecast,Modelo,str,7,7,Regresión estacional
+FactInvierno,Anio,int64,18,18,2017
+FactInvierno,CUT,int64,18,18,6301
+FactInvierno,Comuna,str,18,18,San Fernando
+FactInvierno,Lluvia_JJA,float64,17,18,337.5
+FactInvierno,Max24h_JJA,float64,17,18,36.5
+FactInvierno,Meses_validos,int64,18,18,3
+FactInvierno,Referencia_2017_2022,float64,18,18,255.66666666666663
+FactInvierno,Anomalia_lluvia,float64,17,18,0.3200782268578879
+FactMercado,Temporada,str,241,241,2021-2022
+FactMercado,Producto,str,241,241,Aceituna
+FactMercado,Toneladas,float64,241,241,0.9969
+FactMercado,USD_FOB,float64,241,241,2085.2
+FactMercado,USD_kg,float64,241,241,2.091684221085364
+FactMercado,Cuota_China_valor,float64,241,241,1.0
+FactMercado,Cambio_valor_unitario,float64,211,241,0.1197274218003505
+FactPrioridad,Comuna,str,10,10,Chimbarongo
+FactPrioridad,Ha_frutales,float64,10,10,8454.92
+FactPrioridad,HHI_cultivos,float64,10,10,0.3752924986441985
+FactPrioridad,Cuota_cerezo,float64,10,10,0.5893207741764558
+FactPrioridad,Cuota_riego_gravedad,float64,10,10,0.1612504908384703
+FactPrioridad,Empresas_total,int64,10,10,3427
+FactPrioridad,Empresas_agro,int64,10,10,1319
+FactPrioridad,Empresas_red_potencial,int64,10,10,432
+FactPrioridad,PYME_total_comuna,float64,10,10,612.0
+FactPrioridad,Micro_total_comuna,float64,10,10,2017.0
+FactPrioridad,Dependencia_agro,float64,10,10,0.3848847388386344
+FactPrioridad,CUT,int64,10,10,6303
+FactPrioridad,Indice_prioridad,float64,10,10,86.53523900868383
+FactPrioridad,Puesto,int64,10,10,1
+FactPrioridad,Mejor_puesto,int64,10,10,1
+FactPrioridad,Peor_puesto,int64,10,10,2
+FactPrioridad,Top3_escenarios,int64,10,10,5
+FactPrioridad,Cluster,int64,10,10,2
+FactPrioridad,Accion,str,10,10,Diagnóstico de riego y continuidad de proveedores
+FactSector,Anio,int64,229,229,2021
+FactSector,CUT,int64,229,229,6301
+FactSector,Comuna,str,229,229,San Fernando
+FactSector,Sector,str,229,229,Comercio agroalimentario potencial
+FactSector,Empresas,int64,229,229,68
+FactSector,Ventas_UF_observadas,float64,177,229,485945.0
+FactSector,Celdas_ventas_suprimidas,int64,229,229,3
+FactTamano,Anio,int64,954,954,2005
+FactTamano,CUT,int64,954,954,6301
+FactTamano,Comuna,str,954,954,San Fernando
+FactTamano,Tamano,str,954,954,Sin Ventas/Sin Información
+FactTamano,Empresas,float64,954,954,561.0
+MetricasForecast,Etapa,str,4,4,Selección 2024
+MetricasForecast,Modelo,str,4,4,Ingenuo estacional
+MetricasForecast,MAE,float64,4,4,5292.144200695445
+MetricasForecast,RMSE,float64,4,4,6712.576508473586
+MetricasForecast,Cobertura95,float64,4,4,1.0
+MetricasForecast,N,int64,4,4,12
+ParesClimaEmpleo,Anio,int64,18,18,2017
+ParesClimaEmpleo,CUT,int64,18,18,6301
+ParesClimaEmpleo,Comuna,str,18,18,San Fernando
+ParesClimaEmpleo,Lluvia_JJA,float64,17,18,337.5
+ParesClimaEmpleo,Max24h_JJA,float64,17,18,36.5
+ParesClimaEmpleo,Meses_validos,int64,18,18,3
+ParesClimaEmpleo,Referencia_2017_2022,float64,18,18,255.66666666666663
+ParesClimaEmpleo,Anomalia_lluvia,float64,17,18,0.3200782268578879
+ParesClimaEmpleo,Temporada,str,18,18,2017-2018
+ParesClimaEmpleo,Empleo_verano_OHiggins,float64,18,18,101451.90134006568
+ParesClimaEmpleo,Cambio_empleo_interanual,float64,18,18,0.0024982965277382
+Sensibilidad,Comuna,str,50,50,Chimbarongo
+Sensibilidad,Escenario,str,50,50,Base
+Sensibilidad,Indice,float64,50,50,86.53523900868383
+Sensibilidad,Puesto,int64,50,50,1
+SerieForecast,Fecha,str,169,169,2013-02-01
+SerieForecast,Real,float64,162,169,118068.36352840088
+SerieForecast,Pronostico,float64,7,169,62322.04600559927
+SerieForecast,LI95,float64,7,169,44565.77344257962
+SerieForecast,LS95,float64,7,169,76883.18075981036
+SerieForecast,Modelo,str,7,169,Regresión estacional
+ValidacionForecast,Fecha,str,48,48,2024-01-01
+ValidacionForecast,Etapa,str,48,48,Selección 2024
+ValidacionForecast,Modelo,str,48,48,Ingenuo estacional
+ValidacionForecast,Real,float64,48,48,79763.58982863498
+ValidacionForecast,Predicho,float64,48,48,91207.08981840812
+ValidacionForecast,LI95,float64,48,48,64562.18461097984
+ValidacionForecast,LS95,float64,48,48,106813.78812544976

@@ -1,0 +1,10 @@
+{
+  "comunas": 10,
+  "hectareas_conciliadas": true,
+  "llaves_prioridad_unicas": true,
+  "meses_empleo_continuos": 162,
+  "clima_observado": 53,
+  "faltantes_clima_preservados": 1,
+  "PYME_no_imputada_por_sector": true,
+  "archivos_datamart": 22
+}
