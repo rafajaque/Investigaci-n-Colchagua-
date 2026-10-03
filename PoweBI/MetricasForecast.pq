@@ -1,0 +1,6 @@
+let
+    Binario = if RutaDatos = "" then Binary.FromText("77u/RXRhcGEsTW9kZWxvLE1BRSxSTVNFLENvYmVydHVyYTk1LE4NClNlbGVjY2nDs24gMjAyNCxJbmdlbnVvIGVzdGFjaW9uYWwsNTI5Mi4xNDQyMDA2OTU0NDUsNjcxMi41NzY1MDg0NzM1ODYsMS4wLDEyDQpTZWxlY2Npw7NuIDIwMjQsUmVncmVzacOzbiBlc3RhY2lvbmFsLDUyNjIuMTY4OTg5MzkwMjc5LDYyMDYuMTU1MDIzODk1MDk2LDEuMCwxMg0KUHJ1ZWJhIGluZGVwZW5kaWVudGUgMjAyNSxJbmdlbnVvIGVzdGFjaW9uYWwsMTk4MS4wNjY3NjU0NjQxOTQsMjE4My4xNDIzMTgyNDg0OTc4LDEuMCwxMg0KUHJ1ZWJhIGluZGVwZW5kaWVudGUgMjAyNSxSZWdyZXNpw7NuIGVzdGFjaW9uYWwsMzc0Ny40NDA5NjYzOTY4MTYzLDQ1MjQuMjY4ODA3OTQ0OTc3LDEuMCwxMg0K", BinaryEncoding.Base64) else File.Contents(RutaDatos & "\MetricasForecast.csv"),
+    Csv = Csv.Document(Binario,[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Encabezados = Table.PromoteHeaders(Csv,[PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Encabezados, {{"Etapa", type text}, {"Modelo", type text}, {"MAE", type number}, {"RMSE", type number}, {"Cobertura95", type number}, {"N", Int64.Type}}, "en-US")
+in Tipos

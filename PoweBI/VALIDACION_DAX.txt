@@ -1,0 +1,19 @@
+EVALUATE ROW("Hectareas",[Superficie frutícola],"Empresas agro",[Empresas agro],"PYMEs",[PYME de la comuna],"Red",[Red potencial])
+[Hectareas]=33883.03 | [Empresas agro]=5660 | [PYMEs]=4229 | [Red]=2832
+EVALUATE SUMMARIZECOLUMNS(DimComuna[Comuna],"Hectareas",[Superficie frutícola],"Indice",[Índice de prioridad],"PYMEs",[PYME de la comuna])
+DimComuna[Comuna]=San Fernando | [Hectareas]=5602.16 | [Indice]=49.0734727861523 | [PYMEs]=1311
+DimComuna[Comuna]=Chépica | [Hectareas]=2374.2 | [Indice]=53.0419138597738 | [PYMEs]=255
+DimComuna[Comuna]=Chimbarongo | [Hectareas]=8454.92 | [Indice]=86.5352390086838 | [PYMEs]=612
+DimComuna[Comuna]=Lolol | [Hectareas]=2876.4 | [Indice]=33.8580417088838 | [PYMEs]=200
+DimComuna[Comuna]=Nancagua | [Hectareas]=2065.73 | [Indice]=38.2716518557171 | [PYMEs]=260
+DimComuna[Comuna]=Palmilla | [Hectareas]=3564.26 | [Indice]=53.1579105690207 | [PYMEs]=226
+DimComuna[Comuna]=Peralillo | [Hectareas]=2346.53 | [Indice]=43.4324465213929 | [PYMEs]=203
+DimComuna[Comuna]=Placilla | [Hectareas]=2596.61 | [Indice]=71.4587193479929 | [PYMEs]=178
+DimComuna[Comuna]=Pumanque | [Hectareas]=730.26 | [Indice]=23.6157178914574 | [PYMEs]=74
+DimComuna[Comuna]=Santa Cruz | [Hectareas]=3271.96 | [Indice]=26.9765781247146 | [PYMEs]=910
+EVALUATE ROW("Filas empleo", COUNTROWS(FactEmpleo),"Filas forecast",COUNTROWS(FactForecast),"Tablas",COUNTROWS(DimComuna))
+[Filas empleo]=162 | [Filas forecast]=7 | [Tablas]=10
+EVALUATE FILTER(FactForecast, FactForecast[Fecha]>=DATE(2026,12,1))
+FactForecast[Fecha]=12/01/2026 00:00:00 | FactForecast[Pronostico]=83463.792102645 | FactForecast[LI95]=64670.0794629738 | FactForecast[LS95]=98205.6598712335 | FactForecast[Modelo]=Regresión estacional
+FactForecast[Fecha]=01/01/2027 00:00:00 | FactForecast[Pronostico]=85099.0494843986 | FactForecast[LI95]=65999.703594975 | FactForecast[LS95]=100086.993911514 | FactForecast[Modelo]=Regresión estacional
+FactForecast[Fecha]=02/01/2027 00:00:00 | FactForecast[Pronostico]=81961.5179531735 | FactForecast[LI95]=64339.1613432826 | FactForecast[LS95]=96815.0958006242 | FactForecast[Modelo]=Regresión estacional

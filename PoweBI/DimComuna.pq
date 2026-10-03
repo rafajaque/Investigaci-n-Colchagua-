@@ -1,0 +1,6 @@
+let
+    Binario = if RutaDatos = "" then Binary.FromText("77u/Q1VULENvbXVuYSxQcm92aW5jaWEsUmVnaW9uDQowNjMwMSxTYW4gRmVybmFuZG8sQ29sY2hhZ3VhLE/igJlIaWdnaW5zDQowNjMwMixDaMOpcGljYSxDb2xjaGFndWEsT+KAmUhpZ2dpbnMNCjA2MzAzLENoaW1iYXJvbmdvLENvbGNoYWd1YSxP4oCZSGlnZ2lucw0KMDYzMDQsTG9sb2wsQ29sY2hhZ3VhLE/igJlIaWdnaW5zDQowNjMwNSxOYW5jYWd1YSxDb2xjaGFndWEsT+KAmUhpZ2dpbnMNCjA2MzA2LFBhbG1pbGxhLENvbGNoYWd1YSxP4oCZSGlnZ2lucw0KMDYzMDcsUGVyYWxpbGxvLENvbGNoYWd1YSxP4oCZSGlnZ2lucw0KMDYzMDgsUGxhY2lsbGEsQ29sY2hhZ3VhLE/igJlIaWdnaW5zDQowNjMwOSxQdW1hbnF1ZSxDb2xjaGFndWEsT+KAmUhpZ2dpbnMNCjA2MzEwLFNhbnRhIENydXosQ29sY2hhZ3VhLE/igJlIaWdnaW5zDQo=", BinaryEncoding.Base64) else File.Contents(RutaDatos & "\DimComuna.csv"),
+    Csv = Csv.Document(Binario,[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Encabezados = Table.PromoteHeaders(Csv,[PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Encabezados, {{"CUT", type text}, {"Comuna", type text}, {"Provincia", type text}, {"Region", type text}}, "en-US")
+in Tipos

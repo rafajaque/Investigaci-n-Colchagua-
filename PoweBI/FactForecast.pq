@@ -1,0 +1,6 @@
+let
+    Binario = if RutaDatos = "" then Binary.FromText("77u/RmVjaGEsUHJvbm9zdGljbyxMSTk1LExTOTUsTW9kZWxvDQoyMDI2LTA4LTAxLDYyMzIyLjA0NjAwNTU5OTI3LDQ0NTY1Ljc3MzQ0MjU3OTYyLDc2ODgzLjE4MDc1OTgxMDM2LFJlZ3Jlc2nDs24gZXN0YWNpb25hbA0KMjAyNi0wOS0wMSw2NjE3Mi41NDcwMzc1Mzk3OSw0NzQ1OS44NDcxMzM4Mzc0OCw4MTEyMy40ODY4MDc5NTM4NyxSZWdyZXNpw7NuIGVzdGFjaW9uYWwNCjIwMjYtMTAtMDEsNzE3NTEuNTI0MzI0NDI3NzUsNTMyNDIuOTc2NjI5MTY1ODMsODY0MzguMzI1MDE1MzQwOTgsUmVncmVzacOzbiBlc3RhY2lvbmFsDQoyMDI2LTExLTAxLDc4MjA1LjU4NTg4ODA4ODQ4LDU5NTcwLjc2MTEwNzMwMzk5NSw5Mjc3My41OTUxMjgxMzM4NSxSZWdyZXNpw7NuIGVzdGFjaW9uYWwNCjIwMjYtMTItMDEsODM0NjMuNzkyMTAyNjQ0OTYsNjQ2NzAuMDc5NDYyOTczODE2LDk4MjA1LjY1OTg3MTIzMzU0LFJlZ3Jlc2nDs24gZXN0YWNpb25hbA0KMjAyNy0wMS0wMSw4NTA5OS4wNDk0ODQzOTg1Nyw2NTk5OS43MDM1OTQ5NzQ5NiwxMDAwODYuOTkzOTExNTE0MjUsUmVncmVzacOzbiBlc3RhY2lvbmFsDQoyMDI3LTAyLTAxLDgxOTYxLjUxNzk1MzE3MzQ2LDY0MzM5LjE2MTM0MzI4MjYwNSw5NjgxNS4wOTU4MDA2MjQyMyxSZWdyZXNpw7NuIGVzdGFjaW9uYWwNCg==", BinaryEncoding.Base64) else File.Contents(RutaDatos & "\FactForecast.csv"),
+    Csv = Csv.Document(Binario,[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Encabezados = Table.PromoteHeaders(Csv,[PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Encabezados, {{"Fecha", type datetime}, {"Pronostico", type number}, {"LI95", type number}, {"LS95", type number}, {"Modelo", type text}}, "en-US")
+in Tipos

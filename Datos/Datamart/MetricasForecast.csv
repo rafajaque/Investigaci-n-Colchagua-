@@ -1,0 +1,5 @@
+﻿Etapa,Modelo,MAE,RMSE,Cobertura95,N
+Selección 2024,Ingenuo estacional,5292.144200695445,6712.576508473586,1.0,12
+Selección 2024,Regresión estacional,5262.168989390279,6206.155023895096,1.0,12
+Prueba independiente 2025,Ingenuo estacional,1981.066765464194,2183.1423182484978,1.0,12
+Prueba independiente 2025,Regresión estacional,3747.4409663968163,4524.268807944977,1.0,12

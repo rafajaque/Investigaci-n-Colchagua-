@@ -1,0 +1,955 @@
+﻿Anio,CUT,Comuna,Tamano,Empresas
+2005,06301,San Fernando,Sin Ventas/Sin Información,561.0
+2005,06303,Chimbarongo,Sin Ventas/Sin Información,322.0
+2005,06305,Nancagua,Sin Ventas/Sin Información,120.0
+2005,06308,Placilla,Sin Ventas/Sin Información,63.0
+2005,06310,Santa Cruz,Sin Ventas/Sin Información,431.0
+2005,06304,Lolol,Sin Ventas/Sin Información,46.0
+2005,06306,Palmilla,Sin Ventas/Sin Información,118.0
+2005,06307,Peralillo,Sin Ventas/Sin Información,88.0
+2005,06302,Chépica,Sin Ventas/Sin Información,141.0
+2005,06309,Pumanque,Sin Ventas/Sin Información,37.0
+2005,06301,San Fernando,Micro,3247.0
+2005,06303,Chimbarongo,Micro,1760.0
+2005,06305,Nancagua,Micro,734.0
+2005,06308,Placilla,Micro,415.0
+2005,06310,Santa Cruz,Micro,1943.0
+2005,06304,Lolol,Micro,254.0
+2005,06306,Palmilla,Micro,668.0
+2005,06307,Peralillo,Micro,497.0
+2005,06302,Chépica,Micro,748.0
+2005,06309,Pumanque,Micro,146.0
+2005,06301,San Fernando,Pequeña,567.0
+2005,06303,Chimbarongo,Pequeña,217.0
+2005,06305,Nancagua,Pequeña,134.0
+2005,06308,Placilla,Pequeña,93.0
+2005,06310,Santa Cruz,Pequeña,272.0
+2005,06304,Lolol,Pequeña,31.0
+2005,06306,Palmilla,Pequeña,75.0
+2005,06307,Peralillo,Pequeña,61.0
+2005,06302,Chépica,Pequeña,84.0
+2005,06309,Pumanque,Pequeña,11.0
+2005,06301,San Fernando,Mediana,71.0
+2005,06303,Chimbarongo,Mediana,15.0
+2005,06305,Nancagua,Mediana,16.0
+2005,06308,Placilla,Mediana,4.0
+2005,06310,Santa Cruz,Mediana,31.0
+2005,06306,Palmilla,Mediana,5.0
+2005,06307,Peralillo,Mediana,4.0
+2005,06302,Chépica,Mediana,5.0
+2005,06301,San Fernando,Grande,22.0
+2005,06303,Chimbarongo,Grande,3.0
+2005,06308,Placilla,Grande,1.0
+2005,06310,Santa Cruz,Grande,8.0
+2005,06307,Peralillo,Grande,2.0
+2006,06301,San Fernando,Sin Ventas/Sin Información,602.0
+2006,06303,Chimbarongo,Sin Ventas/Sin Información,317.0
+2006,06305,Nancagua,Sin Ventas/Sin Información,130.0
+2006,06308,Placilla,Sin Ventas/Sin Información,75.0
+2006,06310,Santa Cruz,Sin Ventas/Sin Información,412.0
+2006,06304,Lolol,Sin Ventas/Sin Información,56.0
+2006,06306,Palmilla,Sin Ventas/Sin Información,127.0
+2006,06307,Peralillo,Sin Ventas/Sin Información,95.0
+2006,06302,Chépica,Sin Ventas/Sin Información,134.0
+2006,06309,Pumanque,Sin Ventas/Sin Información,39.0
+2006,06301,San Fernando,Micro,3309.0
+2006,06303,Chimbarongo,Micro,1821.0
+2006,06305,Nancagua,Micro,760.0
+2006,06308,Placilla,Micro,424.0
+2006,06310,Santa Cruz,Micro,1986.0
+2006,06304,Lolol,Micro,259.0
+2006,06306,Palmilla,Micro,676.0
+2006,06307,Peralillo,Micro,525.0
+2006,06302,Chépica,Micro,753.0
+2006,06309,Pumanque,Micro,145.0
+2006,06301,San Fernando,Pequeña,598.0
+2006,06303,Chimbarongo,Pequeña,230.0
+2006,06305,Nancagua,Pequeña,125.0
+2006,06308,Placilla,Pequeña,88.0
+2006,06310,Santa Cruz,Pequeña,301.0
+2006,06304,Lolol,Pequeña,36.0
+2006,06306,Palmilla,Pequeña,81.0
+2006,06307,Peralillo,Pequeña,70.0
+2006,06302,Chépica,Pequeña,92.0
+2006,06309,Pumanque,Pequeña,9.0
+2006,06301,San Fernando,Mediana,72.0
+2006,06303,Chimbarongo,Mediana,16.0
+2006,06305,Nancagua,Mediana,15.0
+2006,06308,Placilla,Mediana,4.0
+2006,06310,Santa Cruz,Mediana,30.0
+2006,06306,Palmilla,Mediana,6.0
+2006,06307,Peralillo,Mediana,4.0
+2006,06302,Chépica,Mediana,2.0
+2006,06301,San Fernando,Grande,20.0
+2006,06303,Chimbarongo,Grande,4.0
+2006,06310,Santa Cruz,Grande,8.0
+2006,06307,Peralillo,Grande,3.0
+2007,06301,San Fernando,Sin Ventas/Sin Información,612.0
+2007,06303,Chimbarongo,Sin Ventas/Sin Información,354.0
+2007,06305,Nancagua,Sin Ventas/Sin Información,151.0
+2007,06308,Placilla,Sin Ventas/Sin Información,82.0
+2007,06310,Santa Cruz,Sin Ventas/Sin Información,436.0
+2007,06304,Lolol,Sin Ventas/Sin Información,49.0
+2007,06306,Palmilla,Sin Ventas/Sin Información,119.0
+2007,06307,Peralillo,Sin Ventas/Sin Información,90.0
+2007,06302,Chépica,Sin Ventas/Sin Información,167.0
+2007,06309,Pumanque,Sin Ventas/Sin Información,39.0
+2007,06301,San Fernando,Micro,3285.0
+2007,06303,Chimbarongo,Micro,1815.0
+2007,06305,Nancagua,Micro,787.0
+2007,06308,Placilla,Micro,402.0
+2007,06310,Santa Cruz,Micro,2004.0
+2007,06304,Lolol,Micro,266.0
+2007,06306,Palmilla,Micro,663.0
+2007,06307,Peralillo,Micro,528.0
+2007,06302,Chépica,Micro,749.0
+2007,06309,Pumanque,Micro,146.0
+2007,06301,San Fernando,Pequeña,663.0
+2007,06303,Chimbarongo,Pequeña,241.0
+2007,06305,Nancagua,Pequeña,130.0
+2007,06308,Placilla,Pequeña,110.0
+2007,06310,Santa Cruz,Pequeña,310.0
+2007,06304,Lolol,Pequeña,38.0
+2007,06306,Palmilla,Pequeña,85.0
+2007,06307,Peralillo,Pequeña,77.0
+2007,06302,Chépica,Pequeña,102.0
+2007,06309,Pumanque,Pequeña,10.0
+2007,06301,San Fernando,Mediana,66.0
+2007,06303,Chimbarongo,Mediana,20.0
+2007,06305,Nancagua,Mediana,14.0
+2007,06308,Placilla,Mediana,3.0
+2007,06310,Santa Cruz,Mediana,28.0
+2007,06304,Lolol,Mediana,1.0
+2007,06306,Palmilla,Mediana,6.0
+2007,06307,Peralillo,Mediana,5.0
+2007,06302,Chépica,Mediana,2.0
+2007,06301,San Fernando,Grande,30.0
+2007,06303,Chimbarongo,Grande,4.0
+2007,06305,Nancagua,Grande,1.0
+2007,06308,Placilla,Grande,1.0
+2007,06310,Santa Cruz,Grande,11.0
+2007,06306,Palmilla,Grande,1.0
+2007,06307,Peralillo,Grande,2.0
+2008,06301,San Fernando,Sin Ventas/Sin Información,592.0
+2008,06303,Chimbarongo,Sin Ventas/Sin Información,380.0
+2008,06305,Nancagua,Sin Ventas/Sin Información,143.0
+2008,06308,Placilla,Sin Ventas/Sin Información,83.0
+2008,06310,Santa Cruz,Sin Ventas/Sin Información,439.0
+2008,06304,Lolol,Sin Ventas/Sin Información,48.0
+2008,06306,Palmilla,Sin Ventas/Sin Información,147.0
+2008,06307,Peralillo,Sin Ventas/Sin Información,96.0
+2008,06302,Chépica,Sin Ventas/Sin Información,162.0
+2008,06309,Pumanque,Sin Ventas/Sin Información,42.0
+2008,06301,San Fernando,Micro,3317.0
+2008,06303,Chimbarongo,Micro,1798.0
+2008,06305,Nancagua,Micro,795.0
+2008,06308,Placilla,Micro,412.0
+2008,06310,Santa Cruz,Micro,1997.0
+2008,06304,Lolol,Micro,279.0
+2008,06306,Palmilla,Micro,672.0
+2008,06307,Peralillo,Micro,546.0
+2008,06302,Chépica,Micro,735.0
+2008,06309,Pumanque,Micro,151.0
+2008,06301,San Fernando,Pequeña,645.0
+2008,06303,Chimbarongo,Pequeña,246.0
+2008,06305,Nancagua,Pequeña,148.0
+2008,06308,Placilla,Pequeña,114.0
+2008,06310,Santa Cruz,Pequeña,349.0
+2008,06304,Lolol,Pequeña,44.0
+2008,06306,Palmilla,Pequeña,94.0
+2008,06307,Peralillo,Pequeña,80.0
+2008,06302,Chépica,Pequeña,112.0
+2008,06309,Pumanque,Pequeña,12.0
+2008,06301,San Fernando,Mediana,77.0
+2008,06303,Chimbarongo,Mediana,26.0
+2008,06305,Nancagua,Mediana,15.0
+2008,06308,Placilla,Mediana,3.0
+2008,06310,Santa Cruz,Mediana,36.0
+2008,06304,Lolol,Mediana,1.0
+2008,06306,Palmilla,Mediana,7.0
+2008,06307,Peralillo,Mediana,6.0
+2008,06302,Chépica,Mediana,5.0
+2008,06301,San Fernando,Grande,28.0
+2008,06303,Chimbarongo,Grande,3.0
+2008,06310,Santa Cruz,Grande,11.0
+2008,06306,Palmilla,Grande,1.0
+2008,06307,Peralillo,Grande,1.0
+2009,06301,San Fernando,Sin Ventas/Sin Información,668.0
+2009,06303,Chimbarongo,Sin Ventas/Sin Información,379.0
+2009,06305,Nancagua,Sin Ventas/Sin Información,170.0
+2009,06308,Placilla,Sin Ventas/Sin Información,94.0
+2009,06310,Santa Cruz,Sin Ventas/Sin Información,454.0
+2009,06304,Lolol,Sin Ventas/Sin Información,54.0
+2009,06306,Palmilla,Sin Ventas/Sin Información,170.0
+2009,06307,Peralillo,Sin Ventas/Sin Información,125.0
+2009,06302,Chépica,Sin Ventas/Sin Información,171.0
+2009,06309,Pumanque,Sin Ventas/Sin Información,43.0
+2009,06301,San Fernando,Micro,3301.0
+2009,06303,Chimbarongo,Micro,1773.0
+2009,06305,Nancagua,Micro,793.0
+2009,06308,Placilla,Micro,435.0
+2009,06310,Santa Cruz,Micro,2041.0
+2009,06304,Lolol,Micro,315.0
+2009,06306,Palmilla,Micro,710.0
+2009,06307,Peralillo,Micro,548.0
+2009,06302,Chépica,Micro,744.0
+2009,06309,Pumanque,Micro,153.0
+2009,06301,San Fernando,Pequeña,650.0
+2009,06303,Chimbarongo,Pequeña,252.0
+2009,06305,Nancagua,Pequeña,154.0
+2009,06308,Placilla,Pequeña,102.0
+2009,06310,Santa Cruz,Pequeña,353.0
+2009,06304,Lolol,Pequeña,38.0
+2009,06306,Palmilla,Pequeña,68.0
+2009,06307,Peralillo,Pequeña,84.0
+2009,06302,Chépica,Pequeña,107.0
+2009,06309,Pumanque,Pequeña,9.0
+2009,06301,San Fernando,Mediana,70.0
+2009,06303,Chimbarongo,Mediana,23.0
+2009,06305,Nancagua,Mediana,8.0
+2009,06308,Placilla,Mediana,4.0
+2009,06310,Santa Cruz,Mediana,36.0
+2009,06304,Lolol,Mediana,1.0
+2009,06306,Palmilla,Mediana,7.0
+2009,06307,Peralillo,Mediana,6.0
+2009,06302,Chépica,Mediana,4.0
+2009,06301,San Fernando,Grande,22.0
+2009,06303,Chimbarongo,Grande,2.0
+2009,06305,Nancagua,Grande,1.0
+2009,06310,Santa Cruz,Grande,15.0
+2009,06304,Lolol,Grande,1.0
+2009,06306,Palmilla,Grande,1.0
+2009,06307,Peralillo,Grande,1.0
+2010,06301,San Fernando,Sin Ventas/Sin Información,625.0
+2010,06303,Chimbarongo,Sin Ventas/Sin Información,373.0
+2010,06305,Nancagua,Sin Ventas/Sin Información,139.0
+2010,06308,Placilla,Sin Ventas/Sin Información,85.0
+2010,06310,Santa Cruz,Sin Ventas/Sin Información,427.0
+2010,06304,Lolol,Sin Ventas/Sin Información,49.0
+2010,06306,Palmilla,Sin Ventas/Sin Información,141.0
+2010,06307,Peralillo,Sin Ventas/Sin Información,115.0
+2010,06302,Chépica,Sin Ventas/Sin Información,191.0
+2010,06309,Pumanque,Sin Ventas/Sin Información,46.0
+2010,06301,San Fernando,Micro,3337.0
+2010,06303,Chimbarongo,Micro,1796.0
+2010,06305,Nancagua,Micro,808.0
+2010,06308,Placilla,Micro,429.0
+2010,06310,Santa Cruz,Micro,2052.0
+2010,06304,Lolol,Micro,322.0
+2010,06306,Palmilla,Micro,723.0
+2010,06307,Peralillo,Micro,575.0
+2010,06302,Chépica,Micro,786.0
+2010,06309,Pumanque,Micro,155.0
+2010,06301,San Fernando,Pequeña,690.0
+2010,06303,Chimbarongo,Pequeña,270.0
+2010,06305,Nancagua,Pequeña,163.0
+2010,06308,Placilla,Pequeña,109.0
+2010,06310,Santa Cruz,Pequeña,405.0
+2010,06304,Lolol,Pequeña,44.0
+2010,06306,Palmilla,Pequeña,82.0
+2010,06307,Peralillo,Pequeña,86.0
+2010,06302,Chépica,Pequeña,111.0
+2010,06309,Pumanque,Pequeña,12.0
+2010,06301,San Fernando,Mediana,87.0
+2010,06303,Chimbarongo,Mediana,26.0
+2010,06305,Nancagua,Mediana,9.0
+2010,06308,Placilla,Mediana,5.0
+2010,06310,Santa Cruz,Mediana,35.0
+2010,06304,Lolol,Mediana,3.0
+2010,06306,Palmilla,Mediana,7.0
+2010,06307,Peralillo,Mediana,7.0
+2010,06302,Chépica,Mediana,5.0
+2010,06301,San Fernando,Grande,22.0
+2010,06303,Chimbarongo,Grande,4.0
+2010,06305,Nancagua,Grande,1.0
+2010,06308,Placilla,Grande,1.0
+2010,06310,Santa Cruz,Grande,12.0
+2010,06306,Palmilla,Grande,1.0
+2010,06307,Peralillo,Grande,2.0
+2011,06301,San Fernando,Sin Ventas/Sin Información,630.0
+2011,06303,Chimbarongo,Sin Ventas/Sin Información,366.0
+2011,06305,Nancagua,Sin Ventas/Sin Información,150.0
+2011,06308,Placilla,Sin Ventas/Sin Información,97.0
+2011,06310,Santa Cruz,Sin Ventas/Sin Información,431.0
+2011,06304,Lolol,Sin Ventas/Sin Información,53.0
+2011,06306,Palmilla,Sin Ventas/Sin Información,165.0
+2011,06307,Peralillo,Sin Ventas/Sin Información,127.0
+2011,06302,Chépica,Sin Ventas/Sin Información,165.0
+2011,06309,Pumanque,Sin Ventas/Sin Información,54.0
+2011,06301,San Fernando,Micro,3413.0
+2011,06303,Chimbarongo,Micro,1878.0
+2011,06305,Nancagua,Micro,831.0
+2011,06308,Placilla,Micro,444.0
+2011,06310,Santa Cruz,Micro,2098.0
+2011,06304,Lolol,Micro,323.0
+2011,06306,Palmilla,Micro,716.0
+2011,06307,Peralillo,Micro,584.0
+2011,06302,Chépica,Micro,802.0
+2011,06309,Pumanque,Micro,152.0
+2011,06301,San Fernando,Pequeña,744.0
+2011,06303,Chimbarongo,Pequeña,287.0
+2011,06305,Nancagua,Pequeña,164.0
+2011,06308,Placilla,Pequeña,115.0
+2011,06310,Santa Cruz,Pequeña,443.0
+2011,06304,Lolol,Pequeña,54.0
+2011,06306,Palmilla,Pequeña,93.0
+2011,06307,Peralillo,Pequeña,108.0
+2011,06302,Chépica,Pequeña,124.0
+2011,06309,Pumanque,Pequeña,14.0
+2011,06301,San Fernando,Mediana,91.0
+2011,06303,Chimbarongo,Mediana,30.0
+2011,06305,Nancagua,Mediana,9.0
+2011,06308,Placilla,Mediana,6.0
+2011,06310,Santa Cruz,Mediana,33.0
+2011,06304,Lolol,Mediana,2.0
+2011,06306,Palmilla,Mediana,10.0
+2011,06307,Peralillo,Mediana,8.0
+2011,06302,Chépica,Mediana,6.0
+2011,06301,San Fernando,Grande,26.0
+2011,06303,Chimbarongo,Grande,6.0
+2011,06305,Nancagua,Grande,1.0
+2011,06308,Placilla,Grande,1.0
+2011,06310,Santa Cruz,Grande,15.0
+2011,06304,Lolol,Grande,1.0
+2011,06306,Palmilla,Grande,3.0
+2011,06307,Peralillo,Grande,2.0
+2012,06301,San Fernando,Sin Ventas/Sin Información,697.0
+2012,06303,Chimbarongo,Sin Ventas/Sin Información,406.0
+2012,06305,Nancagua,Sin Ventas/Sin Información,171.0
+2012,06308,Placilla,Sin Ventas/Sin Información,102.0
+2012,06310,Santa Cruz,Sin Ventas/Sin Información,450.0
+2012,06304,Lolol,Sin Ventas/Sin Información,46.0
+2012,06306,Palmilla,Sin Ventas/Sin Información,151.0
+2012,06307,Peralillo,Sin Ventas/Sin Información,132.0
+2012,06302,Chépica,Sin Ventas/Sin Información,164.0
+2012,06309,Pumanque,Sin Ventas/Sin Información,59.0
+2012,06301,San Fernando,Micro,3402.0
+2012,06303,Chimbarongo,Micro,1840.0
+2012,06305,Nancagua,Micro,831.0
+2012,06308,Placilla,Micro,445.0
+2012,06310,Santa Cruz,Micro,2150.0
+2012,06304,Lolol,Micro,344.0
+2012,06306,Palmilla,Micro,751.0
+2012,06307,Peralillo,Micro,604.0
+2012,06302,Chépica,Micro,826.0
+2012,06309,Pumanque,Micro,148.0
+2012,06301,San Fernando,Pequeña,780.0
+2012,06303,Chimbarongo,Pequeña,317.0
+2012,06305,Nancagua,Pequeña,183.0
+2012,06308,Placilla,Pequeña,130.0
+2012,06310,Santa Cruz,Pequeña,476.0
+2012,06304,Lolol,Pequeña,56.0
+2012,06306,Palmilla,Pequeña,101.0
+2012,06307,Peralillo,Pequeña,108.0
+2012,06302,Chépica,Pequeña,127.0
+2012,06309,Pumanque,Pequeña,15.0
+2012,06301,San Fernando,Mediana,101.0
+2012,06303,Chimbarongo,Mediana,30.0
+2012,06305,Nancagua,Mediana,11.0
+2012,06308,Placilla,Mediana,7.0
+2012,06310,Santa Cruz,Mediana,45.0
+2012,06304,Lolol,Mediana,3.0
+2012,06306,Palmilla,Mediana,10.0
+2012,06307,Peralillo,Mediana,9.0
+2012,06302,Chépica,Mediana,10.0
+2012,06309,Pumanque,Mediana,1.0
+2012,06301,San Fernando,Grande,27.0
+2012,06303,Chimbarongo,Grande,7.0
+2012,06305,Nancagua,Grande,2.0
+2012,06308,Placilla,Grande,1.0
+2012,06310,Santa Cruz,Grande,14.0
+2012,06304,Lolol,Grande,2.0
+2012,06306,Palmilla,Grande,3.0
+2012,06307,Peralillo,Grande,1.0
+2013,06301,San Fernando,Sin Ventas/Sin Información,728.0
+2013,06303,Chimbarongo,Sin Ventas/Sin Información,461.0
+2013,06305,Nancagua,Sin Ventas/Sin Información,193.0
+2013,06308,Placilla,Sin Ventas/Sin Información,91.0
+2013,06310,Santa Cruz,Sin Ventas/Sin Información,493.0
+2013,06304,Lolol,Sin Ventas/Sin Información,60.0
+2013,06306,Palmilla,Sin Ventas/Sin Información,168.0
+2013,06307,Peralillo,Sin Ventas/Sin Información,150.0
+2013,06302,Chépica,Sin Ventas/Sin Información,211.0
+2013,06309,Pumanque,Sin Ventas/Sin Información,53.0
+2013,06301,San Fernando,Micro,3456.0
+2013,06303,Chimbarongo,Micro,1815.0
+2013,06305,Nancagua,Micro,850.0
+2013,06308,Placilla,Micro,452.0
+2013,06310,Santa Cruz,Micro,2196.0
+2013,06304,Lolol,Micro,363.0
+2013,06306,Palmilla,Micro,733.0
+2013,06307,Peralillo,Micro,620.0
+2013,06302,Chépica,Micro,829.0
+2013,06309,Pumanque,Micro,160.0
+2013,06301,San Fernando,Pequeña,798.0
+2013,06303,Chimbarongo,Pequeña,324.0
+2013,06305,Nancagua,Pequeña,190.0
+2013,06308,Placilla,Pequeña,122.0
+2013,06310,Santa Cruz,Pequeña,525.0
+2013,06304,Lolol,Pequeña,63.0
+2013,06306,Palmilla,Pequeña,109.0
+2013,06307,Peralillo,Pequeña,114.0
+2013,06302,Chépica,Pequeña,132.0
+2013,06309,Pumanque,Pequeña,15.0
+2013,06301,San Fernando,Mediana,96.0
+2013,06303,Chimbarongo,Mediana,40.0
+2013,06305,Nancagua,Mediana,13.0
+2013,06308,Placilla,Mediana,14.0
+2013,06310,Santa Cruz,Mediana,46.0
+2013,06304,Lolol,Mediana,3.0
+2013,06306,Palmilla,Mediana,9.0
+2013,06307,Peralillo,Mediana,7.0
+2013,06302,Chépica,Mediana,10.0
+2013,06301,San Fernando,Grande,32.0
+2013,06303,Chimbarongo,Grande,7.0
+2013,06305,Nancagua,Grande,1.0
+2013,06308,Placilla,Grande,1.0
+2013,06310,Santa Cruz,Grande,19.0
+2013,06304,Lolol,Grande,2.0
+2013,06306,Palmilla,Grande,4.0
+2013,06307,Peralillo,Grande,2.0
+2013,06302,Chépica,Grande,1.0
+2014,06301,San Fernando,Sin Ventas/Sin Información,730.0
+2014,06303,Chimbarongo,Sin Ventas/Sin Información,480.0
+2014,06305,Nancagua,Sin Ventas/Sin Información,185.0
+2014,06308,Placilla,Sin Ventas/Sin Información,95.0
+2014,06310,Santa Cruz,Sin Ventas/Sin Información,490.0
+2014,06304,Lolol,Sin Ventas/Sin Información,62.0
+2014,06306,Palmilla,Sin Ventas/Sin Información,167.0
+2014,06307,Peralillo,Sin Ventas/Sin Información,155.0
+2014,06302,Chépica,Sin Ventas/Sin Información,176.0
+2014,06309,Pumanque,Sin Ventas/Sin Información,65.0
+2014,06301,San Fernando,Micro,3486.0
+2014,06303,Chimbarongo,Micro,1890.0
+2014,06305,Nancagua,Micro,877.0
+2014,06308,Placilla,Micro,438.0
+2014,06310,Santa Cruz,Micro,2291.0
+2014,06304,Lolol,Micro,385.0
+2014,06306,Palmilla,Micro,737.0
+2014,06307,Peralillo,Micro,648.0
+2014,06302,Chépica,Micro,862.0
+2014,06309,Pumanque,Micro,156.0
+2014,06301,San Fernando,Pequeña,816.0
+2014,06303,Chimbarongo,Pequeña,315.0
+2014,06305,Nancagua,Pequeña,178.0
+2014,06308,Placilla,Pequeña,136.0
+2014,06310,Santa Cruz,Pequeña,532.0
+2014,06304,Lolol,Pequeña,73.0
+2014,06306,Palmilla,Pequeña,125.0
+2014,06307,Peralillo,Pequeña,113.0
+2014,06302,Chépica,Pequeña,120.0
+2014,06309,Pumanque,Pequeña,14.0
+2014,06301,San Fernando,Mediana,104.0
+2014,06303,Chimbarongo,Mediana,43.0
+2014,06305,Nancagua,Mediana,20.0
+2014,06308,Placilla,Mediana,6.0
+2014,06310,Santa Cruz,Mediana,54.0
+2014,06304,Lolol,Mediana,4.0
+2014,06306,Palmilla,Mediana,14.0
+2014,06307,Peralillo,Mediana,7.0
+2014,06302,Chépica,Mediana,14.0
+2014,06309,Pumanque,Mediana,2.0
+2014,06301,San Fernando,Grande,35.0
+2014,06303,Chimbarongo,Grande,6.0
+2014,06305,Nancagua,Grande,5.0
+2014,06308,Placilla,Grande,2.0
+2014,06310,Santa Cruz,Grande,18.0
+2014,06304,Lolol,Grande,1.0
+2014,06306,Palmilla,Grande,5.0
+2014,06307,Peralillo,Grande,3.0
+2014,06302,Chépica,Grande,1.0
+2015,06301,San Fernando,Sin Ventas/Sin Información,808.0
+2015,06303,Chimbarongo,Sin Ventas/Sin Información,456.0
+2015,06305,Nancagua,Sin Ventas/Sin Información,239.0
+2015,06308,Placilla,Sin Ventas/Sin Información,93.0
+2015,06310,Santa Cruz,Sin Ventas/Sin Información,478.0
+2015,06304,Lolol,Sin Ventas/Sin Información,69.0
+2015,06306,Palmilla,Sin Ventas/Sin Información,172.0
+2015,06307,Peralillo,Sin Ventas/Sin Información,153.0
+2015,06302,Chépica,Sin Ventas/Sin Información,175.0
+2015,06309,Pumanque,Sin Ventas/Sin Información,68.0
+2015,06301,San Fernando,Micro,3442.0
+2015,06303,Chimbarongo,Micro,1848.0
+2015,06305,Nancagua,Micro,913.0
+2015,06308,Placilla,Micro,481.0
+2015,06310,Santa Cruz,Micro,2322.0
+2015,06304,Lolol,Micro,395.0
+2015,06306,Palmilla,Micro,770.0
+2015,06307,Peralillo,Micro,653.0
+2015,06302,Chépica,Micro,837.0
+2015,06309,Pumanque,Micro,158.0
+2015,06301,San Fernando,Pequeña,813.0
+2015,06303,Chimbarongo,Pequeña,343.0
+2015,06305,Nancagua,Pequeña,224.0
+2015,06308,Placilla,Pequeña,127.0
+2015,06310,Santa Cruz,Pequeña,539.0
+2015,06304,Lolol,Pequeña,100.0
+2015,06306,Palmilla,Pequeña,129.0
+2015,06307,Peralillo,Pequeña,122.0
+2015,06302,Chépica,Pequeña,132.0
+2015,06309,Pumanque,Pequeña,16.0
+2015,06301,San Fernando,Mediana,113.0
+2015,06303,Chimbarongo,Mediana,36.0
+2015,06305,Nancagua,Mediana,30.0
+2015,06308,Placilla,Mediana,10.0
+2015,06310,Santa Cruz,Mediana,60.0
+2015,06304,Lolol,Mediana,3.0
+2015,06306,Palmilla,Mediana,14.0
+2015,06307,Peralillo,Mediana,8.0
+2015,06302,Chépica,Mediana,12.0
+2015,06309,Pumanque,Mediana,2.0
+2015,06301,San Fernando,Grande,29.0
+2015,06303,Chimbarongo,Grande,7.0
+2015,06305,Nancagua,Grande,17.0
+2015,06308,Placilla,Grande,3.0
+2015,06310,Santa Cruz,Grande,18.0
+2015,06304,Lolol,Grande,2.0
+2015,06306,Palmilla,Grande,8.0
+2015,06307,Peralillo,Grande,3.0
+2015,06302,Chépica,Grande,2.0
+2016,06301,San Fernando,Sin Ventas/Sin Información,816.0
+2016,06303,Chimbarongo,Sin Ventas/Sin Información,445.0
+2016,06305,Nancagua,Sin Ventas/Sin Información,221.0
+2016,06308,Placilla,Sin Ventas/Sin Información,111.0
+2016,06310,Santa Cruz,Sin Ventas/Sin Información,544.0
+2016,06304,Lolol,Sin Ventas/Sin Información,76.0
+2016,06306,Palmilla,Sin Ventas/Sin Información,193.0
+2016,06307,Peralillo,Sin Ventas/Sin Información,147.0
+2016,06302,Chépica,Sin Ventas/Sin Información,243.0
+2016,06309,Pumanque,Sin Ventas/Sin Información,57.0
+2016,06301,San Fernando,Micro,3443.0
+2016,06303,Chimbarongo,Micro,1847.0
+2016,06305,Nancagua,Micro,881.0
+2016,06308,Placilla,Micro,470.0
+2016,06310,Santa Cruz,Micro,2344.0
+2016,06304,Lolol,Micro,405.0
+2016,06306,Palmilla,Micro,785.0
+2016,06307,Peralillo,Micro,637.0
+2016,06302,Chépica,Micro,852.0
+2016,06309,Pumanque,Micro,173.0
+2016,06301,San Fernando,Pequeña,822.0
+2016,06303,Chimbarongo,Pequeña,325.0
+2016,06305,Nancagua,Pequeña,202.0
+2016,06308,Placilla,Pequeña,122.0
+2016,06310,Santa Cruz,Pequeña,569.0
+2016,06304,Lolol,Pequeña,94.0
+2016,06306,Palmilla,Pequeña,121.0
+2016,06307,Peralillo,Pequeña,131.0
+2016,06302,Chépica,Pequeña,176.0
+2016,06309,Pumanque,Pequeña,26.0
+2016,06301,San Fernando,Mediana,130.0
+2016,06303,Chimbarongo,Mediana,44.0
+2016,06305,Nancagua,Mediana,26.0
+2016,06308,Placilla,Mediana,13.0
+2016,06310,Santa Cruz,Mediana,52.0
+2016,06304,Lolol,Mediana,7.0
+2016,06306,Palmilla,Mediana,15.0
+2016,06307,Peralillo,Mediana,7.0
+2016,06302,Chépica,Mediana,23.0
+2016,06301,San Fernando,Grande,36.0
+2016,06303,Chimbarongo,Grande,10.0
+2016,06305,Nancagua,Grande,16.0
+2016,06308,Placilla,Grande,4.0
+2016,06310,Santa Cruz,Grande,23.0
+2016,06304,Lolol,Grande,2.0
+2016,06306,Palmilla,Grande,10.0
+2016,06307,Peralillo,Grande,3.0
+2016,06302,Chépica,Grande,7.0
+2016,06309,Pumanque,Grande,2.0
+2017,06301,San Fernando,Sin Ventas/Sin Información,860.0
+2017,06303,Chimbarongo,Sin Ventas/Sin Información,441.0
+2017,06305,Nancagua,Sin Ventas/Sin Información,241.0
+2017,06308,Placilla,Sin Ventas/Sin Información,128.0
+2017,06310,Santa Cruz,Sin Ventas/Sin Información,655.0
+2017,06304,Lolol,Sin Ventas/Sin Información,104.0
+2017,06306,Palmilla,Sin Ventas/Sin Información,212.0
+2017,06307,Peralillo,Sin Ventas/Sin Información,156.0
+2017,06302,Chépica,Sin Ventas/Sin Información,230.0
+2017,06309,Pumanque,Sin Ventas/Sin Información,79.0
+2017,06301,San Fernando,Micro,3493.0
+2017,06303,Chimbarongo,Micro,1897.0
+2017,06305,Nancagua,Micro,866.0
+2017,06308,Placilla,Micro,478.0
+2017,06310,Santa Cruz,Micro,2441.0
+2017,06304,Lolol,Micro,426.0
+2017,06306,Palmilla,Micro,738.0
+2017,06307,Peralillo,Micro,649.0
+2017,06302,Chépica,Micro,880.0
+2017,06309,Pumanque,Micro,177.0
+2017,06301,San Fernando,Pequeña,873.0
+2017,06303,Chimbarongo,Pequeña,320.0
+2017,06305,Nancagua,Pequeña,196.0
+2017,06308,Placilla,Pequeña,102.0
+2017,06310,Santa Cruz,Pequeña,562.0
+2017,06304,Lolol,Pequeña,85.0
+2017,06306,Palmilla,Pequeña,132.0
+2017,06307,Peralillo,Pequeña,132.0
+2017,06302,Chépica,Pequeña,135.0
+2017,06309,Pumanque,Pequeña,24.0
+2017,06301,San Fernando,Mediana,112.0
+2017,06303,Chimbarongo,Mediana,42.0
+2017,06305,Nancagua,Mediana,19.0
+2017,06308,Placilla,Mediana,12.0
+2017,06310,Santa Cruz,Mediana,59.0
+2017,06304,Lolol,Mediana,5.0
+2017,06306,Palmilla,Mediana,14.0
+2017,06307,Peralillo,Mediana,8.0
+2017,06302,Chépica,Mediana,11.0
+2017,06309,Pumanque,Mediana,1.0
+2017,06301,San Fernando,Grande,37.0
+2017,06303,Chimbarongo,Grande,11.0
+2017,06305,Nancagua,Grande,9.0
+2017,06308,Placilla,Grande,2.0
+2017,06310,Santa Cruz,Grande,21.0
+2017,06304,Lolol,Grande,2.0
+2017,06306,Palmilla,Grande,7.0
+2017,06307,Peralillo,Grande,4.0
+2017,06302,Chépica,Grande,2.0
+2017,06309,Pumanque,Grande,1.0
+2018,06301,San Fernando,Sin Ventas/Sin Información,904.0
+2018,06303,Chimbarongo,Sin Ventas/Sin Información,466.0
+2018,06305,Nancagua,Sin Ventas/Sin Información,232.0
+2018,06308,Placilla,Sin Ventas/Sin Información,118.0
+2018,06310,Santa Cruz,Sin Ventas/Sin Información,664.0
+2018,06304,Lolol,Sin Ventas/Sin Información,131.0
+2018,06306,Palmilla,Sin Ventas/Sin Información,189.0
+2018,06307,Peralillo,Sin Ventas/Sin Información,150.0
+2018,06302,Chépica,Sin Ventas/Sin Información,191.0
+2018,06309,Pumanque,Sin Ventas/Sin Información,63.0
+2018,06301,San Fernando,Micro,3621.0
+2018,06303,Chimbarongo,Micro,1854.0
+2018,06305,Nancagua,Micro,891.0
+2018,06308,Placilla,Micro,486.0
+2018,06310,Santa Cruz,Micro,2524.0
+2018,06304,Lolol,Micro,415.0
+2018,06306,Palmilla,Micro,801.0
+2018,06307,Peralillo,Micro,703.0
+2018,06302,Chépica,Micro,934.0
+2018,06309,Pumanque,Micro,182.0
+2018,06301,San Fernando,Pequeña,899.0
+2018,06303,Chimbarongo,Pequeña,369.0
+2018,06305,Nancagua,Pequeña,196.0
+2018,06308,Placilla,Pequeña,114.0
+2018,06310,Santa Cruz,Pequeña,623.0
+2018,06304,Lolol,Pequeña,92.0
+2018,06306,Palmilla,Pequeña,148.0
+2018,06307,Peralillo,Pequeña,138.0
+2018,06302,Chépica,Pequeña,151.0
+2018,06309,Pumanque,Pequeña,31.0
+2018,06301,San Fernando,Mediana,124.0
+2018,06303,Chimbarongo,Mediana,47.0
+2018,06305,Nancagua,Mediana,17.0
+2018,06308,Placilla,Mediana,11.0
+2018,06310,Santa Cruz,Mediana,64.0
+2018,06304,Lolol,Mediana,10.0
+2018,06306,Palmilla,Mediana,13.0
+2018,06307,Peralillo,Mediana,9.0
+2018,06302,Chépica,Mediana,12.0
+2018,06309,Pumanque,Mediana,2.0
+2018,06301,San Fernando,Grande,36.0
+2018,06303,Chimbarongo,Grande,13.0
+2018,06305,Nancagua,Grande,8.0
+2018,06308,Placilla,Grande,3.0
+2018,06310,Santa Cruz,Grande,21.0
+2018,06304,Lolol,Grande,1.0
+2018,06306,Palmilla,Grande,7.0
+2018,06307,Peralillo,Grande,4.0
+2018,06302,Chépica,Grande,2.0
+2018,06309,Pumanque,Grande,1.0
+2019,06301,San Fernando,Sin Ventas/Sin Información,1090.0
+2019,06303,Chimbarongo,Sin Ventas/Sin Información,580.0
+2019,06305,Nancagua,Sin Ventas/Sin Información,227.0
+2019,06308,Placilla,Sin Ventas/Sin Información,139.0
+2019,06310,Santa Cruz,Sin Ventas/Sin Información,733.0
+2019,06304,Lolol,Sin Ventas/Sin Información,145.0
+2019,06306,Palmilla,Sin Ventas/Sin Información,219.0
+2019,06307,Peralillo,Sin Ventas/Sin Información,173.0
+2019,06302,Chépica,Sin Ventas/Sin Información,241.0
+2019,06309,Pumanque,Sin Ventas/Sin Información,73.0
+2019,06301,San Fernando,Micro,3693.0
+2019,06303,Chimbarongo,Micro,1927.0
+2019,06305,Nancagua,Micro,982.0
+2019,06308,Placilla,Micro,504.0
+2019,06310,Santa Cruz,Micro,2633.0
+2019,06304,Lolol,Micro,446.0
+2019,06306,Palmilla,Micro,853.0
+2019,06307,Peralillo,Micro,746.0
+2019,06302,Chépica,Micro,972.0
+2019,06309,Pumanque,Micro,210.0
+2019,06301,San Fernando,Pequeña,922.0
+2019,06303,Chimbarongo,Pequeña,378.0
+2019,06305,Nancagua,Pequeña,186.0
+2019,06308,Placilla,Pequeña,105.0
+2019,06310,Santa Cruz,Pequeña,630.0
+2019,06304,Lolol,Pequeña,91.0
+2019,06306,Palmilla,Pequeña,138.0
+2019,06307,Peralillo,Pequeña,150.0
+2019,06302,Chépica,Pequeña,143.0
+2019,06309,Pumanque,Pequeña,30.0
+2019,06301,San Fernando,Mediana,131.0
+2019,06303,Chimbarongo,Mediana,49.0
+2019,06305,Nancagua,Mediana,15.0
+2019,06308,Placilla,Mediana,12.0
+2019,06310,Santa Cruz,Mediana,70.0
+2019,06304,Lolol,Mediana,10.0
+2019,06306,Palmilla,Mediana,12.0
+2019,06307,Peralillo,Mediana,10.0
+2019,06302,Chépica,Mediana,14.0
+2019,06301,San Fernando,Grande,32.0
+2019,06303,Chimbarongo,Grande,15.0
+2019,06305,Nancagua,Grande,11.0
+2019,06308,Placilla,Grande,3.0
+2019,06310,Santa Cruz,Grande,26.0
+2019,06304,Lolol,Grande,1.0
+2019,06306,Palmilla,Grande,10.0
+2019,06307,Peralillo,Grande,3.0
+2019,06302,Chépica,Grande,1.0
+2019,06309,Pumanque,Grande,2.0
+2020,06301,San Fernando,Sin Ventas/Sin Información,1082.0
+2020,06303,Chimbarongo,Sin Ventas/Sin Información,562.0
+2020,06305,Nancagua,Sin Ventas/Sin Información,240.0
+2020,06308,Placilla,Sin Ventas/Sin Información,141.0
+2020,06310,Santa Cruz,Sin Ventas/Sin Información,683.0
+2020,06304,Lolol,Sin Ventas/Sin Información,104.0
+2020,06306,Palmilla,Sin Ventas/Sin Información,234.0
+2020,06307,Peralillo,Sin Ventas/Sin Información,192.0
+2020,06302,Chépica,Sin Ventas/Sin Información,225.0
+2020,06309,Pumanque,Sin Ventas/Sin Información,70.0
+2020,06301,San Fernando,Micro,3693.0
+2020,06303,Chimbarongo,Micro,1914.0
+2020,06305,Nancagua,Micro,935.0
+2020,06308,Placilla,Micro,518.0
+2020,06310,Santa Cruz,Micro,2652.0
+2020,06304,Lolol,Micro,461.0
+2020,06306,Palmilla,Micro,820.0
+2020,06307,Peralillo,Micro,721.0
+2020,06302,Chépica,Micro,984.0
+2020,06309,Pumanque,Micro,210.0
+2020,06301,San Fernando,Pequeña,918.0
+2020,06303,Chimbarongo,Pequeña,418.0
+2020,06305,Nancagua,Pequeña,187.0
+2020,06308,Placilla,Pequeña,115.0
+2020,06310,Santa Cruz,Pequeña,652.0
+2020,06304,Lolol,Pequeña,134.0
+2020,06306,Palmilla,Pequeña,149.0
+2020,06307,Peralillo,Pequeña,148.0
+2020,06302,Chépica,Pequeña,141.0
+2020,06309,Pumanque,Pequeña,32.0
+2020,06301,San Fernando,Mediana,147.0
+2020,06303,Chimbarongo,Mediana,43.0
+2020,06305,Nancagua,Mediana,24.0
+2020,06308,Placilla,Mediana,14.0
+2020,06310,Santa Cruz,Mediana,78.0
+2020,06304,Lolol,Mediana,13.0
+2020,06306,Palmilla,Mediana,19.0
+2020,06307,Peralillo,Mediana,11.0
+2020,06302,Chépica,Mediana,14.0
+2020,06309,Pumanque,Mediana,2.0
+2020,06301,San Fernando,Grande,31.0
+2020,06303,Chimbarongo,Grande,15.0
+2020,06305,Nancagua,Grande,11.0
+2020,06308,Placilla,Grande,4.0
+2020,06310,Santa Cruz,Grande,29.0
+2020,06304,Lolol,Grande,1.0
+2020,06306,Palmilla,Grande,10.0
+2020,06307,Peralillo,Grande,3.0
+2020,06302,Chépica,Grande,2.0
+2021,06301,San Fernando,Sin Ventas/Sin Información,1238.0
+2021,06303,Chimbarongo,Sin Ventas/Sin Información,731.0
+2021,06305,Nancagua,Sin Ventas/Sin Información,271.0
+2021,06308,Placilla,Sin Ventas/Sin Información,180.0
+2021,06310,Santa Cruz,Sin Ventas/Sin Información,815.0
+2021,06304,Lolol,Sin Ventas/Sin Información,122.0
+2021,06306,Palmilla,Sin Ventas/Sin Información,253.0
+2021,06307,Peralillo,Sin Ventas/Sin Información,230.0
+2021,06302,Chépica,Sin Ventas/Sin Información,262.0
+2021,06309,Pumanque,Sin Ventas/Sin Información,100.0
+2021,06301,San Fernando,Micro,3879.0
+2021,06303,Chimbarongo,Micro,1990.0
+2021,06305,Nancagua,Micro,975.0
+2021,06308,Placilla,Micro,526.0
+2021,06310,Santa Cruz,Micro,2666.0
+2021,06304,Lolol,Micro,473.0
+2021,06306,Palmilla,Micro,870.0
+2021,06307,Peralillo,Micro,742.0
+2021,06302,Chépica,Micro,1024.0
+2021,06309,Pumanque,Micro,218.0
+2021,06301,San Fernando,Pequeña,1066.0
+2021,06303,Chimbarongo,Pequeña,455.0
+2021,06305,Nancagua,Pequeña,217.0
+2021,06308,Placilla,Pequeña,131.0
+2021,06310,Santa Cruz,Pequeña,764.0
+2021,06304,Lolol,Pequeña,160.0
+2021,06306,Palmilla,Pequeña,189.0
+2021,06307,Peralillo,Pequeña,156.0
+2021,06302,Chépica,Pequeña,171.0
+2021,06309,Pumanque,Pequeña,46.0
+2021,06301,San Fernando,Mediana,153.0
+2021,06303,Chimbarongo,Mediana,48.0
+2021,06305,Nancagua,Mediana,35.0
+2021,06308,Placilla,Mediana,15.0
+2021,06310,Santa Cruz,Mediana,104.0
+2021,06304,Lolol,Mediana,20.0
+2021,06306,Palmilla,Mediana,27.0
+2021,06307,Peralillo,Mediana,16.0
+2021,06302,Chépica,Mediana,18.0
+2021,06301,San Fernando,Grande,43.0
+2021,06303,Chimbarongo,Grande,19.0
+2021,06305,Nancagua,Grande,10.0
+2021,06308,Placilla,Grande,4.0
+2021,06310,Santa Cruz,Grande,46.0
+2021,06304,Lolol,Grande,3.0
+2021,06306,Palmilla,Grande,18.0
+2021,06307,Peralillo,Grande,3.0
+2021,06302,Chépica,Grande,1.0
+2021,06309,Pumanque,Grande,1.0
+2022,06301,San Fernando,Sin Ventas/Sin Información,1290.0
+2022,06303,Chimbarongo,Sin Ventas/Sin Información,700.0
+2022,06305,Nancagua,Sin Ventas/Sin Información,280.0
+2022,06308,Placilla,Sin Ventas/Sin Información,192.0
+2022,06310,Santa Cruz,Sin Ventas/Sin Información,821.0
+2022,06304,Lolol,Sin Ventas/Sin Información,155.0
+2022,06306,Palmilla,Sin Ventas/Sin Información,260.0
+2022,06307,Peralillo,Sin Ventas/Sin Información,209.0
+2022,06302,Chépica,Sin Ventas/Sin Información,286.0
+2022,06309,Pumanque,Sin Ventas/Sin Información,101.0
+2022,06301,San Fernando,Micro,4065.0
+2022,06303,Chimbarongo,Micro,2027.0
+2022,06305,Nancagua,Micro,1012.0
+2022,06308,Placilla,Micro,538.0
+2022,06310,Santa Cruz,Micro,2801.0
+2022,06304,Lolol,Micro,508.0
+2022,06306,Palmilla,Micro,886.0
+2022,06307,Peralillo,Micro,773.0
+2022,06302,Chépica,Micro,1056.0
+2022,06309,Pumanque,Micro,233.0
+2022,06301,San Fernando,Pequeña,1107.0
+2022,06303,Chimbarongo,Pequeña,518.0
+2022,06305,Nancagua,Pequeña,233.0
+2022,06308,Placilla,Pequeña,137.0
+2022,06310,Santa Cruz,Pequeña,812.0
+2022,06304,Lolol,Pequeña,158.0
+2022,06306,Palmilla,Pequeña,196.0
+2022,06307,Peralillo,Pequeña,178.0
+2022,06302,Chépica,Pequeña,213.0
+2022,06309,Pumanque,Pequeña,55.0
+2022,06301,San Fernando,Mediana,157.0
+2022,06303,Chimbarongo,Mediana,49.0
+2022,06305,Nancagua,Mediana,26.0
+2022,06308,Placilla,Mediana,14.0
+2022,06310,Santa Cruz,Mediana,114.0
+2022,06304,Lolol,Mediana,26.0
+2022,06306,Palmilla,Mediana,33.0
+2022,06307,Peralillo,Mediana,22.0
+2022,06302,Chépica,Mediana,17.0
+2022,06309,Pumanque,Mediana,1.0
+2022,06301,San Fernando,Grande,49.0
+2022,06303,Chimbarongo,Grande,17.0
+2022,06305,Nancagua,Grande,10.0
+2022,06308,Placilla,Grande,5.0
+2022,06310,Santa Cruz,Grande,41.0
+2022,06304,Lolol,Grande,5.0
+2022,06306,Palmilla,Grande,22.0
+2022,06307,Peralillo,Grande,4.0
+2022,06302,Chépica,Grande,7.0
+2022,06309,Pumanque,Grande,2.0
+2023,06301,San Fernando,Sin Ventas/Sin Información,1275.0
+2023,06303,Chimbarongo,Sin Ventas/Sin Información,670.0
+2023,06305,Nancagua,Sin Ventas/Sin Información,273.0
+2023,06308,Placilla,Sin Ventas/Sin Información,183.0
+2023,06310,Santa Cruz,Sin Ventas/Sin Información,789.0
+2023,06304,Lolol,Sin Ventas/Sin Información,144.0
+2023,06306,Palmilla,Sin Ventas/Sin Información,249.0
+2023,06307,Peralillo,Sin Ventas/Sin Información,201.0
+2023,06302,Chépica,Sin Ventas/Sin Información,279.0
+2023,06309,Pumanque,Sin Ventas/Sin Información,115.0
+2023,06301,San Fernando,Micro,4181.0
+2023,06303,Chimbarongo,Micro,2065.0
+2023,06305,Nancagua,Micro,1050.0
+2023,06308,Placilla,Micro,564.0
+2023,06310,Santa Cruz,Micro,2912.0
+2023,06304,Lolol,Micro,550.0
+2023,06306,Palmilla,Micro,912.0
+2023,06307,Peralillo,Micro,839.0
+2023,06302,Chépica,Micro,1094.0
+2023,06309,Pumanque,Micro,261.0
+2023,06301,San Fernando,Pequeña,1104.0
+2023,06303,Chimbarongo,Pequeña,485.0
+2023,06305,Nancagua,Pequeña,228.0
+2023,06308,Placilla,Pequeña,131.0
+2023,06310,Santa Cruz,Pequeña,776.0
+2023,06304,Lolol,Pequeña,156.0
+2023,06306,Palmilla,Pequeña,193.0
+2023,06307,Peralillo,Pequeña,167.0
+2023,06302,Chépica,Pequeña,205.0
+2023,06309,Pumanque,Pequeña,51.0
+2023,06301,San Fernando,Mediana,147.0
+2023,06303,Chimbarongo,Mediana,50.0
+2023,06305,Nancagua,Mediana,19.0
+2023,06308,Placilla,Mediana,11.0
+2023,06310,Santa Cruz,Mediana,103.0
+2023,06304,Lolol,Mediana,20.0
+2023,06306,Palmilla,Mediana,28.0
+2023,06307,Peralillo,Mediana,18.0
+2023,06302,Chépica,Mediana,22.0
+2023,06309,Pumanque,Mediana,6.0
+2023,06301,San Fernando,Grande,39.0
+2023,06303,Chimbarongo,Grande,17.0
+2023,06305,Nancagua,Grande,6.0
+2023,06308,Placilla,Grande,5.0
+2023,06310,Santa Cruz,Grande,35.0
+2023,06304,Lolol,Grande,5.0
+2023,06306,Palmilla,Grande,16.0
+2023,06307,Peralillo,Grande,4.0
+2023,06302,Chépica,Grande,4.0
+2023,06309,Pumanque,Grande,4.0
+2024,06301,San Fernando,Sin Ventas/Sin Información,1437.0
+2024,06303,Chimbarongo,Sin Ventas/Sin Información,776.0
+2024,06305,Nancagua,Sin Ventas/Sin Información,347.0
+2024,06308,Placilla,Sin Ventas/Sin Información,201.0
+2024,06310,Santa Cruz,Sin Ventas/Sin Información,956.0
+2024,06304,Lolol,Sin Ventas/Sin Información,177.0
+2024,06306,Palmilla,Sin Ventas/Sin Información,307.0
+2024,06307,Peralillo,Sin Ventas/Sin Información,252.0
+2024,06302,Chépica,Sin Ventas/Sin Información,326.0
+2024,06309,Pumanque,Sin Ventas/Sin Información,134.0
+2024,06301,San Fernando,Micro,4087.0
+2024,06303,Chimbarongo,Micro,2017.0
+2024,06305,Nancagua,Micro,1053.0
+2024,06308,Placilla,Micro,548.0
+2024,06310,Santa Cruz,Micro,2938.0
+2024,06304,Lolol,Micro,553.0
+2024,06306,Palmilla,Micro,909.0
+2024,06307,Peralillo,Micro,829.0
+2024,06302,Chépica,Micro,1091.0
+2024,06309,Pumanque,Micro,264.0
+2024,06301,San Fernando,Pequeña,1161.0
+2024,06303,Chimbarongo,Pequeña,553.0
+2024,06305,Nancagua,Pequeña,235.0
+2024,06308,Placilla,Pequeña,161.0
+2024,06310,Santa Cruz,Pequeña,810.0
+2024,06304,Lolol,Pequeña,171.0
+2024,06306,Palmilla,Pequeña,196.0
+2024,06307,Peralillo,Pequeña,185.0
+2024,06302,Chépica,Pequeña,236.0
+2024,06309,Pumanque,Pequeña,66.0
+2024,06301,San Fernando,Mediana,150.0
+2024,06303,Chimbarongo,Mediana,59.0
+2024,06305,Nancagua,Mediana,25.0
+2024,06308,Placilla,Mediana,17.0
+2024,06310,Santa Cruz,Mediana,100.0
+2024,06304,Lolol,Mediana,29.0
+2024,06306,Palmilla,Mediana,30.0
+2024,06307,Peralillo,Mediana,18.0
+2024,06302,Chépica,Mediana,19.0
+2024,06309,Pumanque,Mediana,8.0
+2024,06301,San Fernando,Grande,52.0
+2024,06303,Chimbarongo,Grande,22.0
+2024,06305,Nancagua,Grande,7.0
+2024,06308,Placilla,Grande,6.0
+2024,06310,Santa Cruz,Grande,49.0
+2024,06304,Lolol,Grande,5.0
+2024,06306,Palmilla,Grande,19.0
+2024,06307,Peralillo,Grande,4.0
+2024,06302,Chépica,Grande,3.0
+2024,06309,Pumanque,Grande,5.0

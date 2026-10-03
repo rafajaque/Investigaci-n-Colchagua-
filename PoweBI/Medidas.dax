@@ -1,0 +1,65 @@
+// Tabla: FactPrioridad
+Índice de prioridad = AVERAGE(FactPrioridad[Indice_prioridad])
+
+// Tabla: FactPrioridad
+Empresas agro = SUM(FactPrioridad[Empresas_agro])
+
+// Tabla: FactPrioridad
+Red potencial = SUM(FactPrioridad[Empresas_red_potencial])
+
+// Tabla: FactPrioridad
+PYME de la comuna = SUM(FactPrioridad[PYME_total_comuna])
+
+// Tabla: FactPrioridad
+Microempresas = SUM(FactPrioridad[Micro_total_comuna])
+
+// Tabla: FactPrioridad
+Dependencia agro = DIVIDE(SUM(FactPrioridad[Empresas_agro]),SUM(FactPrioridad[Empresas_total]))
+
+// Tabla: FactPrioridad
+HHI promedio = AVERAGE(FactPrioridad[HHI_cultivos])
+
+// Tabla: FactPrioridad
+Presencia top 3 = MAX(FactPrioridad[Top3_escenarios])
+
+// Tabla: FactPrioridad
+Riego por gravedad = DIVIDE(SUMX(FactPrioridad,FactPrioridad[Ha_frutales]*FactPrioridad[Cuota_riego_gravedad]),SUM(FactPrioridad[Ha_frutales]))
+
+// Tabla: FactPrioridad
+Exposición a cerezo = DIVIDE(SUMX(FactPrioridad,FactPrioridad[Ha_frutales]*FactPrioridad[Cuota_cerezo]),SUM(FactPrioridad[Ha_frutales]))
+
+// Tabla: FactCultivo
+Superficie frutícola = SUM(FactCultivo[Hectareas])
+
+// Tabla: FactSector
+Empresas último año = VAR Ultimo = CALCULATE(MAX(FactSector[Anio]), ALL(DimAnio)) RETURN CALCULATE(SUM(FactSector[Empresas]), FILTER(ALL(DimAnio), DimAnio[Anio]=Ultimo))
+
+// Tabla: FactEmpleo
+Empleo regional promedio = AVERAGE(FactEmpleo[Ocupados_agro])
+
+// Tabla: FactForecast
+Pronóstico promedio = AVERAGE(FactForecast[Pronostico])
+
+// Tabla: FactInvierno
+Lluvia de invierno = AVERAGE(FactInvierno[Lluvia_JJA])
+
+// Tabla: FactMercado
+Valor unitario FOB = DIVIDE(SUM(FactMercado[USD_FOB]), SUM(FactMercado[Toneladas])*1000)
+
+// Tabla: FactMercado
+Cambio unitario = AVERAGE(FactMercado[Cambio_valor_unitario])
+
+// Tabla: FactMercado
+Dependencia China = AVERAGE(FactMercado[Cuota_China_valor])
+
+// Tabla: SerieForecast
+Observado = AVERAGE(SerieForecast[Real])
+
+// Tabla: SerieForecast
+Proyección = AVERAGE(SerieForecast[Pronostico])
+
+// Tabla: SerieForecast
+Inferior 95 = AVERAGE(SerieForecast[LI95])
+
+// Tabla: SerieForecast
+Superior 95 = AVERAGE(SerieForecast[LS95])
